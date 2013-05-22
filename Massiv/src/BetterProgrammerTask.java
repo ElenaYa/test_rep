@@ -11,7 +11,7 @@ public static void main (String arg[]){
 	
 	}
 }	
-
+//first note from git side 
   /*  public static Object[] reverseArray(Object[] a) {
     	Object s;
     	int[] b = new int[a.length];
